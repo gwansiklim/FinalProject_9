@@ -35,7 +35,7 @@ Front | Back
 React | Node.js
 Redux | Express
 Axios | MySQL
-'' | Redis
+ | Redis
 Socket.io | Socket.io
 카카오맵 API | 카카오맵 API
 
