@@ -48,7 +48,9 @@ Socket.io | Socket.io
 <img src='https://img.shields.io/badge/express-4.17.1-lightgrey'> | 서버
 <img src='https://img.shields.io/badge/express--session-1.17.2-lightgrey'> | 세션 관리
 <img src='https://img.shields.io/badge/joi-17.4.1-lightgrey'>  | 입력데이터 검출
+<img src='https://img.shields.io/badge/crypto--js-4.1.1-lightgrey'> | 비밀번호 암호화
 <img src='https://img.shields.io/badge/jsonwebtoken-8.5.1-lightgrey'>  | 서명 암호화
+<img src='https://img.shields.io/badge/morgan-1.10.0-lightgrey'> | Http Log 기록
 <img src='https://img.shields.io/badge/redis-3.1.2-lightgrey'>  | 캐시 메모리 DB 관리
 <img src='https://img.shields.io/badge/georedis-3.1.3-lightgrey'>  | 위치 정보 관리
 <img src='https://img.shields.io/badge/request-2.88.2-lightgrey'> | 외부 API 요청
